@@ -1,5 +1,5 @@
 coroutine.wrap(function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/1vj17CNX "))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/1vj17CNX"))()
 end)()
 
 coroutine.wrap(function()
